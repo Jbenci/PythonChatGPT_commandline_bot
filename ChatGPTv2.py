@@ -2,7 +2,7 @@
 import openai
 import os
 
-openai.api_key = "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"
+openai.api_key = "sk-0Wp7yTPSqiI1DyHFT9VLT3Blb........................."
 
 # system messages first, it helps set the behavior of the assistant.
 messages = [{"role": "system",
